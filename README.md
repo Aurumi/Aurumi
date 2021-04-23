@@ -1,5 +1,5 @@
 👋 Hello, my name is Igor Kulikov
-## I'm a beginner **Front-end React developer** from Belarus
+## I'm a  **Front-end developer** from Belarus
 ### My stack technologies:
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3)
